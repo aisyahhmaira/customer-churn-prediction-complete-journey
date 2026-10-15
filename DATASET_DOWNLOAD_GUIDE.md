@@ -8,8 +8,6 @@ This guide explains how to access the dataset used in the **Customer Churn Predi
 - [The Complete Journey User Guide](https://bradleyboehmke.github.io/completejourney/articles/completejourney.html)
 - [completejourney R package — GitHub repository](https://github.com/bradleyboehmke/completejourney)
 
-> **Important:** The official guide distributes the dataset through an **R package**, rather than offering a single CSV download on that page. You can export the data to CSV after loading it in R if you plan to use Excel, Python, or other analysis tools.
-
 ## Method 1 — Install the R Package (Recommended)
 
 ### Step 1: Open R or RStudio
@@ -174,8 +172,4 @@ These are **R data files**, not necessarily ready-to-open CSV files. For a simpl
 ## Dataset Attribution
 
 - **Dataset:** The Complete Journey
-- **Original data source:** 84.51° — Complete Journey customer study
-- **R package:** `completejourney`, developed by Brad Boehmke and Steven M. Mortimer
 - **User guide:** https://bradleyboehmke.github.io/completejourney/articles/completejourney.html
-
-This repository documents how to obtain the dataset instead of republishing all the original raw data files.
